@@ -1,0 +1,19 @@
+# Altium history and locks
+History/
+__Previews/
+*.~*
+*.Bak
+*.PrjPcbStructure
+
+# Altium auto-generated outputs
+*.REPReport
+*.DRC
+*.ERC
+*.log
+
+# Project Outputs (Gerbers, BOM etc — committed manually when ready)
+Project Outputs*/
+
+# Windows
+Thumbs.db
+desktop.ini
