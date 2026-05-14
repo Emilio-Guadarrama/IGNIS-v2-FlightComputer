@@ -25,8 +25,8 @@ ProjectPath=Components\LED SMD 0805\SML-LXT0805IW-TR\LED_0805-SML-LXT0805IW-TR.L
 [Project12]
 ProjectPath=Components\MCU - ESP32\ESP32-S3-WROOM-1-N16R2\ESP32-S3-WROOM-1-N16R2.LibPkg
 [Project13]
-ProjectPath=Components\USB-C Port - USB-C_918-418K2024F40202\Greeenga\2345986-1\USB_C-9918-418K2023C40004.LibPkg
-[Project14]
 ProjectPath=PCB_Project_IGNIS_v2.PrjPcb
-[Project15]
+[Project14]
 ProjectPath=Components\Optoisolator - MOC3023S\PC817X2NIP1B\Optoisolator-PC817X2NIP1B.LibPkg
+[Project15]
+ProjectPath=Components\USB-C Port 2\USB_C-918-418K2024F40202\USB_C-918-418K2023C40004.LibPkg
