@@ -1,7 +1,7 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Components\Transistor NPN - S9018\Project Outputs for S9018\S9018\Transistor_NPN-S9018.LibPkg
+ProjectPath=PCB_Project_IGNIS_v2.PrjPcb
 [Project2]
 ProjectPath=Components\Pressure Sensor - BMP180\PRESSURE-BMP180_LGA7_\PRESSURE-BMP180_LGA7_.LibPkg
 [Project3]
@@ -23,12 +23,16 @@ ProjectPath=Components\LED SMD 0805\SML-LXT0805IW-TR\LED_0805-SML-LXT0805IW-TR.L
 [Project11]
 ProjectPath=Components\MCU - ESP32\ESP32-S3-WROOM-1-N16R2\ESP32-S3-WROOM-1-N16R2.LibPkg
 [Project12]
-ProjectPath=PCB_Project_IGNIS_v2.PrjPcb
-[Project13]
 ProjectPath=Components\Optoisolator - MOC3023S\PC817X2NIP1B\Optoisolator-PC817X2NIP1B.LibPkg
-[Project14]
+[Project13]
 ProjectPath=Components\USB-C Port 2\USB_C-918-418K2024F40202\USB_C-918-418K2023C40004.LibPkg
-[Project15]
+[Project14]
 ProjectPath=Components\Button\SKRPABE010\Button-SKRPABE010.LibPkg
-[Project16]
+[Project15]
 ProjectPath=Components\SMA port - BWSMA-KE-Z001\SMA\SMA.LibPkg
+[Project16]
+ProjectPath=Components\SS8550 PNP Transistor\SS8550_PNP.LibPkg
+[Project17]
+ProjectPath=Components\NPN_S8050\NPN_8050.LibPkg
+[Project18]
+ProjectPath=Components\NCE6005AR Mosfet N 60v 5A SMD\NCE6005AR_Mosfet_N.LibPkg
