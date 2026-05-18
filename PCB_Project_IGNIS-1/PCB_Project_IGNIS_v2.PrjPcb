@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LUXTKQWL
 
 [Document8]
-DocumentPath=Pyro.SchDoc
+DocumentPath=Pyros.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
